@@ -7,4 +7,4 @@
 <!---
 1996enrique/1996enrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->[![.github/workflows/main.yml](https://github.com/1996enrique/1996enrique/actions/workflows/main.yml/badge.svg?branch=circleci-project-setup)](https://github.com/1996enrique/1996enrique/actions/workflows/main.yml)
